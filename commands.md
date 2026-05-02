@@ -26,3 +26,10 @@ nmap -A scanme.nmap.org
 Runs a more comprehensive scan including version detection, OS detection, scripts, and traceroute.
 # What I learned:
 Aggressive scans provide rich information but should be used thoughtfully because they are noisy and more detectable.
+# Reflection
+One thing that surprised me is how much useful information can be gathered from simple reconnaissance. This reinforced for me that information gathering is one of the most 
+critical stages in ethical hacking.
+
+
+
+
