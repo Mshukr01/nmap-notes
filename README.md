@@ -28,5 +28,14 @@ I’m transitioning into cybersecurity and documenting my hands-on learning publ
 # OS Detection
 ![OS Detection](screenshots/os-detection.png)
 
+# TCP Scan
+![TCP Scan](screenshots/tcp-scan.png)
+
+# UDP Scan
+![UDP Scan](screenshots/udp-scan.png)
+
+# SYN Scan
+![SYN Scan](screenshots/syn-scan.png)
+
 # Aggressive Scan
 ![Aggressive Scan](screenshots/aggressive-scan.png)
